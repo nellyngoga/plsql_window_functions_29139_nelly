@@ -487,10 +487,9 @@ The revenue concentration in Organic Honey reflects both the product's universal
 1. PostgreSQL Documentation. (2025). "Window Functions." PostgreSQL 16 Official Documentation. https://www.postgresql.org/docs/16/tutorial-window.html
 2. PostgreSQL Documentation. (2025). "Queries: JOINs." PostgreSQL 16 Official Documentation. https://www.postgresql.org/docs/16/queries-table-expressions.html
 3. Oracle Corporation. (2025). "SQL/PL SQL Window (Analytic) Functions." Oracle Database SQL Language Reference. https://docs.oracle.com/en/database/oracle/oracle-database/
-4. Korth, H., Silberschatz, A., & Sudarshan, S. (2019). *Database System Concepts* (7th ed.). McGraw-Hill Education.
-5. Beaulieu, A. (2020). *Learning SQL: Generate, Manipulate, and Retrieve Data* (3rd ed.). O'Reilly Media.
-6. W3Schools. (2025). "SQL Window Functions Tutorial." https://www.w3schools.com/sql/sql_ref_sqlserver.asp
-7. GeeksforGeeks. (2025). "Window Functions in SQL." https://www.geeksforgeeks.org/window-functions-in-sql/
+4. Korth, H., Silberschatz, A., & Sudarshan, S. (2019). *Database System Concepts* (7th ed.). McGraw-Hill Education. https://www.mpgcamb.com/wp-content/uploads/2024/12/Abraham-Silberschatz-Henry-F.-Korth-S.-Sudarshan-Database-System-Concepts-McGraw-Hill-Education-2019.pdf
+5. W3Schools. (2025). "SQL Window Functions Tutorial." https://www.w3schools.com/sql/sql_ref_sqlserver.asp
+6. GeeksforGeeks. (2025). "Window Functions in SQL." https://www.geeksforgeeks.org/window-functions-in-sql/
 
 
 ---
