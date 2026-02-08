@@ -499,5 +499,5 @@ The revenue concentration in Organic Honey reflects both the product's universal
 
 > "All sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation."
 
-I hereby confirm that this assignment is my own original work. All SQL queries were written, tested, and debugged independently. The business scenario, data analysis, and interpretations reflect my personal understanding of the concepts taught in INSY 8311.
+I hereby confirm that this assignment is my own original work. All SQL queries were written, tested, and debugged independently. The business scenario, data analysis, and interpretations reflect my personal understanding of the concepts taught.
 
