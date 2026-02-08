@@ -3,7 +3,7 @@
 **Course:** INSY 8311: Database Development with PL/SQL  
 **Instructor:** Eric Maniraguha  
 **Name:** Nelly Ngoga Urujeni 
-** ID:** 29139 
+**ID:** 29139 
 **Group:** A
 **DBMS:** PostgreSQL  
 
